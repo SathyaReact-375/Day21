@@ -1,5 +1,5 @@
 import React from "react";
-import CounterDisplay from "./Counterdisplay";
+
 import CounterButtons from "./CounterButtons";
 import CounterComponent from "./CounterComponent";
 import MessageDisplay from "./MessageDisplay";
@@ -9,6 +9,7 @@ import ThemeButton from "./ThemeButton";
 import AuthStatus from "./AuthStatus";
 import LoginButton from "./LoginButton";
 import LogoutButton from "./LogoutButton";
+import CounterDisplay from "../Components/CounterDisplay";
 
 
 const Task1 = () => {
